@@ -1,6 +1,14 @@
-# 🏥 MedFlow AI - Intelligent Healthcare Gateway
+# 🏥 Medical Online Consultant Hospital (MedFlow AI)
 
 MedFlow AI is a state-of-the-art, AI-driven healthcare management platform designed to revolutionize the clinical experience. It provides distinct, context-aware portals for **Patients**, **Doctors**, **Hospital Administrators**, and **Family Members**, all unified by a powerful multi-agent AI ecosystem.
+
+---
+
+## 👤 Project Owner
+
+- **Name**: Macharla Naga Manoj Reddy
+- **GitHub**: [MacharlaNagamanojreddy](https://github.com/MacharlaNagamanojreddy)
+- **Repository**: [Medical-online-consultant-Hospital](https://github.com/MacharlaNagamanojreddy/Medical-online-consultant-Hospital)
 
 ---
 
@@ -77,8 +85,8 @@ MedFlow AI leverages a sophisticated `ai-agent` edge function (implemented with 
 1. **Prerequisites**: Ensure you have [Node.js](https://nodejs.org/) installed.
 2. **Clone & Install**:
    ```bash
-   git clone <repo-url>
-   cd medflow-login-gateway
+   git clone https://github.com/MacharlaNagamanojreddy/Medical-online-consultant-Hospital.git
+   cd Medical-online-consultant-Hospital
    npm install
    ```
 3. **Environment Setup**:
@@ -86,7 +94,7 @@ MedFlow AI leverages a sophisticated `ai-agent` edge function (implemented with 
    - Add your credentials:
      ```env
      VITE_SUPABASE_URL=your_supabase_url
-     VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+     VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_publishable_key
      ```
 4. **Run the App**:
    ```bash
