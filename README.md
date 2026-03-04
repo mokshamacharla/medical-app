@@ -4,14 +4,6 @@ MedFlow AI is a state-of-the-art, AI-driven healthcare management platform desig
 
 ---
 
-## 👤 Project Owner
-
-- **Name**: Macharla Naga Manoj Reddy
-- **GitHub**: [MacharlaNagamanojreddy](https://github.com/MacharlaNagamanojreddy)
-- **Repository**: [Medical-online-consultant-Hospital](https://github.com/MacharlaNagamanojreddy/Medical-online-consultant-Hospital)
-
----
-
 ## 🌟 Key Highlights
 
 - **Multi-Agent Architecture**: Discrete AI agents tailored for clinical, administrative, and patient support roles.
@@ -133,7 +125,7 @@ All milestones from the 5-day roadmap have been successfully implemented, verifi
 
 ---
 
-## 👤 Owner Details
+## 👤 My Details
 
 Name: Macharla Naga Manoj Reddy  
 GitHub: MacharlaNagamanojreddy  
