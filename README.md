@@ -132,3 +132,9 @@ flowchart TD
 All milestones from the 5-day roadmap have been successfully implemented, verified, and polished. MedFlow AI is ready for demonstration.
 
 ---
+
+## 👤 Owner Details
+
+Name: Macharla Naga Manoj Reddy  
+GitHub: MacharlaNagamanojreddy  
+Repository: Medical-online-consultant-Hospital
