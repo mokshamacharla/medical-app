@@ -127,13 +127,9 @@ All milestones from the 5-day roadmap have been successfully implemented, verifi
 
 ## 👤 My Details
 
-Name: Macharla Naga Manoj Reddy  
-GitHub: MacharlaNagamanojreddy  
-Repository: Medical-online-consultant-Hospital
+Name: Moksha Macharla  
+GitHub: [mokshamacharla](https://github.com/mokshamacharla)
+Repository: medical-app
 
 ---
 
-## 🤝 Contributor Details
-
-Name: Moksha Macharla  
-GitHub: [mokshamacharla](https://github.com/mokshamacharla)
